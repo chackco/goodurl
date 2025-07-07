@@ -1,4 +1,8 @@
 # BadURL Killer Project
+
+work with Chrome and Edge
+https://bit.ly/4kpsNu6
+
 ## GoodURL database
 
 **Bad URL Killer:** Your Proactive Web Guardian
