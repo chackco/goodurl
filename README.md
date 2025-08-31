@@ -1,7 +1,7 @@
 # BadURL Killer Project
 
 work with Chrome and Edge
-https://bit.ly/4kpsNu6
+https://ggl.link/badurlkiller
 
 ## GoodURL database
 
