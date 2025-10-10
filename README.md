@@ -16,4 +16,6 @@ Bad URL Killer is a browser extension dedicated to providing a safer web Browse 
 
 **Instant Protection:** Should any scanning engine identify a website as malicious, Bad URL Killer will immediately block your access, preventing you from encountering phishing attempts, malware, and other online dangers.
 
+New! Never land on a malicious site again! Get immediate visual security with a colored badge, and rely on our smart, Adaptive-block feature that stops the page from fully loading if it's confirmed dangerous during navigation.
+
 With Bad URL Killer, you gain an essential layer of security, empowering you to surf the web with greater confidence.
